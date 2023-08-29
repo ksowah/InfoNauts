@@ -119,9 +119,9 @@ const About_Block = () => {
        
         <Member img="/assets/kev.jpg" major="Computer Science" name="Kelvin Sowah" />
         <Member img="/assets/nec.jpg" major="Computer Science" name="Bentil Shadrack" />
-        <Member img="/assets/duchess.jpeg" major="Mathimatics & Statistics" name="Duchess Aseye Avedzi" />
+        <Member img="/assets/duchess.jpeg" major="Mathematics & Statistics" name="Duchess Aseye Avedzi" />
         <Member img="/assets/eugene.jpeg" major="Actuarial Science" name="Eugene Debrah" />
-        <Member img="/assets/adelaide.jpeg" major="Mathimatics & Actuarial Science" name="Adelaide Panye Yaboah" />
+        <Member img="/assets/adelaide.jpeg" major="Mathematics & Actuarial Science" name="Adelaide Panye Yaboah" />
       </div>
     </div>
   );
