@@ -1,2 +1,2 @@
-## CASHOUT 
-Fintech.10 Hackathon Project
+## InfoNauts 
+Data Hackathon
