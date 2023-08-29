@@ -6,7 +6,7 @@ const Goals = () => {
         
         <div className="relative flex-1 h-[22rem] rounded-xl overflow-hidden" >
             <Image 
-                src={"/assets/team.jpg"}
+                src={"/assets/goals.jpg"}
                 layout="fill"
                 objectFit="cover"
                 alt=""
