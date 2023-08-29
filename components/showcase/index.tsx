@@ -32,7 +32,7 @@ const Showcase = ({ remove }: { remove?: boolean }) => {
             Our mission is to empower educational institutions with data-driven
             insights to refine their resource allocation and program structures,
             ensuring that students receive the most relevant and impactful
-            education."
+            education.&quot;
           </p>
           {!remove && (
             <div className="flex flex-col md:flex-row mt-8 gap-y-3 md:gap-x-3">

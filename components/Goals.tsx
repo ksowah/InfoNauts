@@ -9,6 +9,7 @@ const Goals = () => {
                 src={"/assets/goals.jpg"}
                 layout="fill"
                 objectFit="cover"
+                alt=""
             />
         </div>
         <div className="flex-1 h-[22rem] rounded-xl bg-primary p-[1.5rem] " >

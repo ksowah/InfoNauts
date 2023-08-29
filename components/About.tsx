@@ -41,7 +41,7 @@ const About_Block = () => {
 
         <div>
           In an era defined by rapid change and evolving career landscapes,
-          education's role in shaping individuals' success is paramount. Yet,
+          education&apos;s role in shaping individuals&apos; success is paramount. Yet,
           the mismatch between traditional academic paths and real-world
           employability persists, leaving students, institutions, and industries
           disconnected. Recognizing this gap as a catalyst for transformation,
@@ -91,11 +91,11 @@ const About_Block = () => {
           We invite educational institutions to embark on a transformative
           journey with us. Together, we can reshape the educational landscape,
           ensure that students graduate with skills that matter, and contribute
-          to a workforce that's not just educated but empowered.
+          to a workforce that&apos;s not just educated but empowered.
         </p>
 
         <p>
-          Thank you for sharing in our vision. Together, we're building a future
+          Thank you for sharing in our vision. Together, we&apos;re building a future
           where education becomes a dynamic force for change, growth, and
           lifelong success.
         </p>
