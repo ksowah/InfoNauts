@@ -12,7 +12,7 @@ const Goals = () => {
                 alt=""
             />
         </div>
-        <div className="flex-1 h-[22rem] rounded-xl bg-primary p-[1.5rem] " >
+        <div className="flex-1 rounded-xl bg-primary p-[1.5rem] " >
             <h2 className="font-extrabold text-[1.8rem] " >GOALS</h2>
             <div className="pl-[1rem] space-y-4" >
                 <p className="text-[1.14rem]" >- Understand enrollment trends and patterns to allocate resources effectively.</p>

@@ -76,7 +76,7 @@ const Footer = () => {
                 <p className="hover:text-active cursor-pointer">www.InfoNautstest.com</p>
               </li>
               <li className="mb-4">
-                <p className="hover:text-active cursor-pointer">+23356844331</p>
+                <p className="hover:text-active cursor-pointer">+233556844331</p>
               </li>
                 {/* live chat button */}
                 <li className="cursor-pointer mb-4 bg-active gap-x-2 text-xl rounded-full py-2 px-4 flex items-center justify-center text-white">
@@ -91,7 +91,7 @@ const Footer = () => {
       <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
       <div className="sm:flex sm:items-center sm:justify-between">
         <span className="text-sm text-gray-100 sm:text-center ">
-          © 2022 <span className="hover:text-active cursor-pointer">InfoNauts™</span>. All Rights
+          © 2023 <span className="hover:text-active cursor-pointer">InfoNauts™</span>. All Rights
           Reserved.
         </span>
         <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">

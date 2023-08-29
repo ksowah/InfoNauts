@@ -58,7 +58,7 @@ const Showcase = ({ remove }: { remove?: boolean }) => {
       <div className="w-[90%] md:w-[40%] flex items-center justify-center">
         <div className="p-2 bg-white overflow-hidden ">
           <motion.img
-            src="/assets/banner.jpg"
+            src="/assets/dashboard.jpg"
             alt="showcase"
             className="w-[26rem] object-contain cursor-pointer"
             whileHover={{ scale: 1.02 }}
