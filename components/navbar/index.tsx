@@ -38,7 +38,7 @@ const Header = ({ bg }: { bg?: boolean }) => {
         {/* navigation */}
         <Navigations />
 
-        <CallToAction text={"Download data"} />
+        <CallToAction text={"Request Demo"} />
       </div>
 
       {/* Mobile */}

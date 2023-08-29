@@ -52,26 +52,7 @@ const Partners = () => {
           />
         </div>
       </motion.div>
-      <div className="mb-28 w-full md:w-[50%] grid gap-y-4 grid-cols-2 md:grid-cols-3">
-        <div className="flex flex-col items-center justify-center">
-          <p className="font-semibold text-xl flex gap-x-2 items-center justify-center">
-            1420 <span className="text-active">+</span>
-          </p>
-          <p>Partners</p>
-        </div>
-        <div className="flex flex-col items-center justify-center">
-          <p className="font-semibold text-xl flex gap-x-2 items-center justify-center">
-            102 <span className="text-active">+</span>
-          </p>
-          <p>Awards</p>
-        </div>
-        <div className="flex flex-col items-center justify-center">
-          <p className="font-semibold text-xl flex gap-x-2 items-center justify-center">
-            5352 <span className="text-active">+</span>
-          </p>
-          <p>Satistfied Customers</p>
-        </div>
-      </div>
+     
       <div className="absolute -bottom-10 w-full md:w-[60%] rounded-xl min-h-[3rem] md:min-h-[5rem] bg-active flex gap-y-3 md:gap-y-0 px-3 py-3 flex-col md:flex-row">
         <div className="w-full md:w-1/2 text-white">
           <h1 className="font-bold ">Got any questions for us?</h1>

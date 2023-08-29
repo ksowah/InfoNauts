@@ -40,7 +40,7 @@ const Showcase = ({ remove }: { remove?: boolean }) => {
                 whileHover={{ scale: 1.02 }}
                 onClick={handleUpload}
                 className="flex items-center justify-center gap-x-2 bg-active text-primary px-4 py-2 rounded-sm text-base font-semibold">
-                Download data
+                Request Demo
                 <div className="p-2 rounded-full bg-white">
                 <AiOutlineDownload />
                 </div>
